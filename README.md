@@ -28,3 +28,5 @@ npm install -g yo
 **Development**
 1. Downloaded free BootStrap Theme to kick-start development.
     https://startbootstrap.com/template-overviews/stylish-portfolio/
+
+    see Themes/stylish-portfolio......
