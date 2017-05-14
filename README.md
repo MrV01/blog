@@ -1,4 +1,4 @@
-Initial  Setup.
+***Initial  Setup***
 1. Yeoman    http://yeoman.io/
 npm install -g yo
   1.1. Install.    yeoman/generator-webapp
@@ -24,3 +24,7 @@ npm install -g yo
             Try to use Chocolatey
             ( The sane way to manage software on Windows ):       https://chocolatey.org/
                 Then install Ruby:      https://chocolatey.org/packages/ruby
+
+**Development**
+1. Downloaded free BootStrap Theme to kick-start development.
+    https://startbootstrap.com/template-overviews/stylish-portfolio/
