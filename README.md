@@ -30,6 +30,11 @@ npm install -g yo
 
        see new sub- directory:  Themes/stylish-portfolio......
 
+2. Re-install  Hexo blog in  NK directory. See "InstallationHexo blog generator"
+
+3. Installed  Hexo deployer in NK directory .
+npm install hexo-deployer-git --save
+
 
 
 *** OPTIONAL  Ruby on Rails ****
