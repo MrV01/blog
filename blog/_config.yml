@@ -48,7 +48,7 @@ default_category: uncategorized
 category_map:
 tag_map:
 
-# Date / Time format
+# Date / Time formats
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
@@ -67,6 +67,11 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+## GITHUB doc pages  must be enabled in "settings" of remote repository.
+## https://help.github.com/articles/creating-project-pages-using-the-command-line/
+## https://help.github.com/articles/user-organization-and-project-pages/#project-pages
+## https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
+## Github Pages web site name:   https://MrV01.github.io/blog
 deploy:
   type: git
   repo: https://github.com/MrV01/blog.git
